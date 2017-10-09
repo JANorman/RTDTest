@@ -1,4 +1,4 @@
-Getting Started Guide
+Sign up
 =====================
 
 Let's get started
